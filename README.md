@@ -6,11 +6,6 @@ Welcome to the repository for our project on Blockchain Technology. This project
 
 1. [Introduction](#introduction)
 2. [Team Members](#team-members)
-3. [Contents](#contents)
-4. [Demystifying Blockchain](#demystifying-blockchain)
-5. [Working and Applications](#working-and-applications)
-6. [Benefits and Drawbacks](#benefits-and-drawbacks)
-7. [Conclusion](#conclusion)
 
 ## Introduction
 
